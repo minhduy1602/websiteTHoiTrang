@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "626957ccc19025d6d113db36"
+  },
+  "username": "thang",
+  "email": "thang@gmail.com",
+  "password": "U2FsdGVkX19g3cDNW1/RI+TZNqOY8zGgAfJ2cqBQnqo=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651070924966"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651070924966"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269582dc19025d6d113db41"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "U2FsdGVkX19g3cDNW1/RI+TZNqOY8zGgAfJ2cqBQnqo=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651071021240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651071021240"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b19f0fbd4e225ccc03b616"
+  },
+  "username": "hau",
+  "email": "haubruclee07@gmail.com",
+  "password": "U2FsdGVkX1/nD8YJ5Ke7IycT5n6xhW7A1rB1yOD606w=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672584975411"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672584975411"
+    }
+  },
+  "__v": 0
+}]

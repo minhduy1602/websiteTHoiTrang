@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "62679eec692cd1f800d78acf"
+  },
+  "title": "SOO Balo Fit Nguyên Bản H55",
+  "desc": "H55 - ESSENTIAL BACKPACK  Chất liệu: - Vài chính: 900D PVC Water proof + Lót 210D Logo chữ Y - PE foam 5mm + Air Mesh quai đeo và lưng chống sốc tuyệt đối. - Logo YaMe cùng Nhãn chữ Y/H55 chính hãng - Dây kéo YKK #8 siêu bền Thiết kế thời trang & Đa dụng - Nhiều ngăn đa tính năng - Ngăn chính rộng - Ngăn chống shock cho Laptop - Ngăn nhỏ bên trong tiện dụng - Ngăn phụ ngoài Màu sắc: Đỏ - Xanh Đen - Xám trắng - Xám đậm Kích thước: 43 x 33 x 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/bltx-u-y2010-h55-0018842/d2d4c5e7-c585-ff00-c5b1-0018fa4fc1d8.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/bltx-u-y2010-h55-0018842/fc258b38-299c-2400-bc24-00188ec5690c.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "FreeSize",
+  "color": "Xanh Đen",
+  "price": 149,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650958060412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650958060412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267a7fe692cd1f800d78b55"
+  },
+  "title": "Giày Casual Y Nguyên Bản",
+  "desc": "Giày Casual Đơn Giản Y Nguyên Bản Ver2 Chất liệu: - Vật tư chính: 100% Da - Lót Vòng cổ 100% Da - Lót thân + lưỡi gà Mousse 3mm + Mesh êm chân - Talon mesh + mousse 3.5mm - Dây giày cotton dệt 6mm trắng - Ô dê thông hơi - Đế cao su",
+  "img": [
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-y-nguyen-ban-ver2-0020431/6445fdad-c5fe-8200-f773-0018b78579ad.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-y-nguyen-ban-ver2-0020431/b5649960-5549-8300-937b-0018b7857a58.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Trắng",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650960382434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651056053898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bae11bafa0b255f1e721"
+  },
+  "title": "Balo Big Thần Cổ Đại Horus",
+  "desc": "Balo Big Thần Cổ Đại Horus Ver1 - Chất liệu: 900HD in chuyển nhiệt + 900HD PU Đen - Lót 210PU Cam chữ Y + Lót 210PU Đen - Bên trong lưng balo là 1 tấm EVA chống sốc - Đệm quai đeo Air mesh êm - PE foam 5mm chống sốc tuyệt đối - Phối nhựa trong 0.5mm - Dây kéo - Đầu kéo YKK #5-8 - Logo Horus thêu - Nhãn dệt chữ Y/Ver1 - Logo TPR Y2010 - Thiết kế nhiều ngăn tiện dụng + Kích thước: 42 x 30 x 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/balo-big-than-co-ai-horus-ver1-0020360/9daab7e0-2053-0700-cc2a-0018cfe9ac33.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/balo-big-than-co-ai-horus-ver1-0020360/918c8b7e-e85f-0200-0a40-001886a43f16.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "Free Size",
+  "color": "Đen",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965217438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651056820630"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bb1d1bafa0b255f1e726"
+  },
+  "title": "Balo Big Linh Vật Bbuff Ver2",
+  "desc": "Balo Big Linh Vật Bbuff Ver2 - Chất liệu: 900HD in chuyển nhiệt + 900HDPU đen - Lót 210HD trắng - Bên trong lưng balo là 1 tấm EVA chống sốc - Đệm quai đeo Air mesh êm - PE foam 5mm/8mm chống sốc tuyệt đối - Dây kéo - Đầu kéo YKK #5/8 - Nhãn dệt chữ Y/Ver2 - Logo TPR Y2010 - Thiết kế nhiều ngăn tiện dụng - Kích thước: Cao 42cm x Dài 30cm x rộng 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver2-0020369/b5b0c47d-7d23-0300-7330-0018d091e07d.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver2-0020369/ea232552-b456-e700-23e9-0018a6e3002a.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "Free Size",
+  "color": "Xanh Dương Nhạt",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965277144"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650965277144"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bb4d1bafa0b255f1e729"
+  },
+  "title": "Balo Big Linh Vật Bbuff Ver4",
+  "desc": "Balo Big Linh Vật Bbuff Ver4 - Chất liệu: 900HD PU in chuyển nhiệt + 900HD PU Đen - Lót 210PU Cam chữ Y + Lót 210PU Hồng - Bên trong lưng balo là 1 tấm EVA chống sốc - Đệm quai đeo Air mesh êm - PE foam 5mm chống sốc tuyệt đối - Dây kéo - Đầu kéo YKK #5/8 - Nhãn dệt chữ Y/Ver4 - Logo TPR Y2010 - Thiết kế nhiều ngăn tiện dụng - Kích thước: Cao 42cm x Dài 30cm x rộng 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/ad62e417-86e8-0700-2f0b-0018cfeabe51.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/20af99d0-5948-2a00-d37d-00189c0a97c4.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "Free Size",
+  "color": "Hồng",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965325152"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650965325152"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bba21bafa0b255f1e731"
+  },
+  "title": "Giày Casual Nguyên Bản M3",
+  "desc": "Chất liệu: Microfiber Đế: Cao Su",
+  "img": [
+    "https://cdn2.yame.vn/pimg/giay-luoi-y2010-al02-0019830/8be84af5-c87d-0f00-e633-00174d403d56.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/sandal-e-thap-on-gian-m8-0020457/a957b9c9-10"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Đen",
+  "price": 230,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965410743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650974728291"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bc411bafa0b255f1e734"
+  },
+  "title": "Sandal Đế Thấp Nguyên Bản",
+  "desc": "Sandal Đế Thấp Đơn Giản M8 Chất liệu: Vật tư quai Simily dày 2.5mm - Khóa kim loại Đế : + Mặt trên đế Simily có in logo -> + Lớp Eva nằm dưới tạo sự êm ái khi mang + Phần giữa đế trấu + Mặt dưới đế EVA có hoa văn",
+  "img": [
+    "https://cdn2.yame.vn/pimg/sandal-e-thap-on-gian-m8-0020457/079b2b60-d8f4-1302-bc5a-0018b1e96261.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/sandal-e-thap-on-gian-m8-0020457/a957b9c9-1008-1402-8093-0018b1e9627b.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "41",
+  "color": "Trắng",
+  "price": 210,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965569287"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651053787904"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626838d214d84e2de84213a3"
+  },
+  "title": "Áo Thun Cổ Tròn Tối Giản",
+  "desc": "Áo Thun Cổ Tròn Tối Giản Ver12 Chất liệu: Vải tổ ong Thành phần: 100% Polyester + Họa tiết thêu 2D",
+  "img": [
+    "data:image/jpeg;base64,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",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/1453a6bd-3792-0300-4dd3-001904648163.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Trắng",
+  "price": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650997458224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672585195835"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268cff15f88494c7db36ef0"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "desc": "Áo Thun Cổ Tròn Linh Vật Tigeer Ver4 Chất liệu: Cotton 4C Thành phần: 92% cotton 8% spandex -Thân thiện - Thấm hút thoát ẩm - Mềm mại, ít nhăn - Co giãn tối ưu - Kiểm soát mùi - Điều hòa nhiệt + Họa tiết in vải cuộn",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/3b60c48d-e446-6100-bdc9-0019046a4b66.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Trắng",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036145723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036145723"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0625f88494c7db36ef5"
+  },
+  "title": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus ",
+  "desc": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus Ver2 Thành phần: 30% cotton 30% tencel 40% microfiber Ưu điểm của vải: Duy trì độ ẩm cho làn da, thoáng khí, thấm hút mồ hôi, độ bền cao, khả năng chịu lực tốt, co giãn thoải mái, kháng khuẩn, ngăn mùi hiệu quả + Họa tiết in nước",
+  "img": [
+    "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/8e7d6e96-2911-0100-73f1-0018b7818792.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/0d16f9ad-23a1-0200-9623-0018b78188bb.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Xám Trắng",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036258544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036258544"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0aa5f88494c7db36efa"
+  },
+  "title": "Sơ Mi Cổ Danton Linh Vật Bbuff",
+  "desc": "Chất liệu: Vải dù - in chuyển nhiệt Thành phần: 100% poly - Co giãn 2 chiều - Bề mặt mềm mại - Nhanh khô - Độ bền cao + Kỹ thuật in chuyển nhiệt + may đắp logo - HDSD: + Nên sử dụng các loại bột giặt dịu nhẹ hoặc đã được pha loãng tránh làm hổng chất lượng vải. + GIặt ủi nhiệt độ thường tránh nhiệt độ quá cao sẽ ảnh hưởng đến chất lượng hình in. + Phơi trong bóng râm tránh nắng gắt .",
+  "img": [
+    "https://cdn2.yame.vn/pimg/so-mi-co-danton-linh-vat-bbuff-ver1-0020281/6c125f0b-abf8-1400-35a2-0018680a75ab.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/so-mi-co-danton-linh-vat-bbuff-ver1-0020281/1bb224dd-f917-1500-46d2-0018680a7b7e.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Xám",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036330723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036330723"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d13b5f88494c7db36f0d"
+  },
+  "title": "Giày Casual Nguyên Bản M70",
+  "desc": "Giày Casual Đơn Giản M7 Chất liệu: Vật tư chính Microfiber - Lót Vòng cổ Pu - Lót thân + Mesh êm chân - Trang trí thân PU - Thêu trang trí ô dê xỏ dây giày - Talon mesh + mousse 3.5mm - Dây giày cotton dệt 6mm trắng - Ô dê thông hơi - Đế cao su",
+  "img": [
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-m7-0020408/6492cdeb-cf9e-2f00-fd22-0018b1f2a6cd.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-m7-0020408/ecc03ce4-3f5b-3000-ceba-0018b1f2a6e5.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Trắng",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036475334"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672584669882"
+    }
+  },
+  "__v": 0
+}]
