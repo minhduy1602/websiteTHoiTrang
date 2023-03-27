@@ -64,13 +64,13 @@
           </div>
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4 ft_m-t">
             <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-            <p><i class="fas fa-home"></i>Bình Phước - Việt Nam</p>
+            <p><i class="fas fa-home"></i>Thủ Đức - Thành Phố Hồ Chí Minh - Việt Nam</p>
             <p>
               <i class="fas fa-envelope"></i>
-              haubruclee07@gmail.com
+              minhduyle2001pt@gmail.com
             </p>
-            <p><i class="fas fa-phone"></i> (+84) 372477216</p>
-            <p><i class="fas fa-print"></i> (+84) 372477216</p>
+            <p><i class="fas fa-phone"></i> (+84) 822076386</p>
+            <p><i class="fas fa-print"></i> (+84) 822076386</p>
           </div>
         </div>
       </div>
