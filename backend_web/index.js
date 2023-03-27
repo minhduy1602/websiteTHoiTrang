@@ -13,7 +13,7 @@ const cors = require("cors");
 dotenv.config();
 
 mongoose
-  .connect((process.env.MONGO_URL = "mongodb://localhost:27017/dataproject"))
+  .connect((process.env.MONGO_URL = "mongodb://127.0.0.1:27017/dataproject"))
   .then(() => console.log("DB Connection Successfull!"))
   .catch((err) => {
     console.log(err);
